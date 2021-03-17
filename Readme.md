@@ -7,10 +7,10 @@ If I do it manually then I need to change the date manually each time in .yaml f
 for multiple dates. So I created this script to do it automatically for me just by giving a start_date, previous date , nb_dates, frequency as parameter.
 
   
-Previous_date : date already exist in my configuration.yaml file that I need to replace with new date value.   
-Start_date: very first date that I need to change in configuration.yaml file.   
-nb_dates: How many number of dates I need to add in datelist from Start_date value.   
-frequency: How much should be frequency of dates to create. I have used 7 days. So it will create a date from current day to next 7th day.   
+***Previous_date:*** date already exist in my configuration.yaml file that I need to replace with new date value.   
+***Start_date:*** very first date that I need to change in configuration.yaml file.   
+***nb_dates:*** How many number of dates I need to add in datelist from Start_date value.   
+***frequency:*** How much should be frequency of dates to create. I have used 7 days. So it will create a date from current day to next 7th day.   
 
 **Algorithmic steps:**
 
