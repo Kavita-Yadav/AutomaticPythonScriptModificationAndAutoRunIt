@@ -18,3 +18,8 @@ for multiple dates. So I created this script to do it automatically for me just 
 2. Then I have created a for loop which take dates one by one from datelist.
 3. I have also created a function that will take the current iteration date value from for loop and replace old date in .yaml file with current date.
 4. After running this function It will run the main program file with updated current date configurations
+
+Note: Install all python required module to run this script by running requirment.txt file first. 
+Command to run requirement.txt: $ pip install -r /path/to/requirements.txt. 
+Command to run AutomaticPythonScriptModificationAndAutoRunIt/AutoModifyandAutoRun.py: 
+$python3 path/to/python/file/AutomaticPythonScriptModificationAndAutoRunIt/AutoModifyandAutoRun.py
